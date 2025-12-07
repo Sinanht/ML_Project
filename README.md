@@ -29,9 +29,9 @@ Metrics evaluated:
 - F1-score (macro)  
 
 ## 📁 Repository Structure
-├── CICIDS2017_notebook.ipynb/ # Jupyter notebook with full workflow
-├── ML_Project_Report.pdf/ # Final PDF report (LaTeX)
-└── README.md
+- CICIDS2017_notebook.ipynb/ # Jupyter notebook with full workflow
+- ML_Project_Report.pdf/ # Final PDF report (LaTeX)
+- README.md
 
 
 ## 📦 Dataset

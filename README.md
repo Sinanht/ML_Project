@@ -31,6 +31,7 @@ Metrics evaluated:
 ## 📁 Repository Structure
 - CICIDS2017_notebook.ipynb/ # Jupyter notebook with full workflow
 - ML_Project_Report.pdf/ # Final PDF report (LaTeX)
+- Report_Latex.zip/ #.zip from Overleaf
 - README.md
 
 
